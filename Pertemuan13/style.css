@@ -1,0 +1,19 @@
+.satu{
+	    display: block;
+	    background-color: lightskyblue;
+	    padding: 15px;
+	    border: 25px solid red;
+	}
+	.dua{
+	    display: block;
+	    background-color: lightskyblue;
+	    padding: 15px;
+	    border: 25px solid red;
+	    margin: 0 200px;
+	}
+	.tiga{
+	    background-color: lightskyblue;
+	    padding: 15px;
+	    border: 25px solid red;
+	    margin: 0 400px;
+	}
