@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Chilanka', cursive;
+    font-size: 2rem;
+    text-align: center;
+}
+
+body {
+    font-family: 'Itim', cursive;
+    font-size: 1rem;
+    width: 30%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
